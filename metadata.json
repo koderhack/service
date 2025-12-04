@@ -1,0 +1,7 @@
+{
+  "name": "ServiceRoute AI",
+  "description": "AI-assisted scheduling for technicians with route optimization.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
